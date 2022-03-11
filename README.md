@@ -1,0 +1,2 @@
+# MidtermReviewCodeForPartC
+ICE2 
